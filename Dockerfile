@@ -1,7 +1,7 @@
 # vim:set ft=dockerfile:
 FROM alpine:2.6
 
-MAINTAINER Andrius Kairiukstis <andrius@kairiukstis.com>
+MAINTAINER And
 
 RUN apk add --update \
       asterisk \
